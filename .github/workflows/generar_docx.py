@@ -17,7 +17,7 @@ hdr_cells[0].text = 'Item'
 hdr_cells[1].text = 'Cumple'
 hdr_cells[2].text = 'Observación'
 
-# Aquí van tus datos (por ahora dummy)
+# Datos de ejemplo
 datos = [
     {'Item': 'Techos', 'Cumple': 'No cumple', 'Observacion': 'Sucio'},
     {'Item': 'Pisos', 'Cumple': 'Cumple', 'Observacion': ''}
